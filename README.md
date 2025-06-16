@@ -92,6 +92,4 @@ Run `DCT_Watermarking_Live_Script.mlx` in MATLAB for a code walkthrough.
 ### **Screenshot of GUI**  
 *(Add a screenshot here using `![GUI](path/to/image.png)`)*  
 
----
 
-Let me know if you'd like to add more details (e.g., installation steps, video demo link, or publication reference). Happy to refine further! 🎉
