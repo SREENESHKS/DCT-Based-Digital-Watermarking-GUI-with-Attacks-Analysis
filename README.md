@@ -3,7 +3,7 @@
 # **DCT-Based Image Watermarking System**  
 *A MATLAB GUI for embedding and extracting invisible watermarks using Discrete Cosine Transform (DCT) along with live-script in Matlab*  
 
-![GUI Screenshot](https://via.placeholder.com/600x400?text=DCT+Watermarking+GUI) *(Replace with actual screenshot)*  
+![GUI Screenshot](https://via.placeholder.com/600x400?text=DCT+Watermarking+GUI) 
 
 ## **Features**  
 ✅ **Invisible Watermarking**: Embeds binary watermarks into DCT coefficients.  
@@ -82,7 +82,7 @@ Run `DCT_Watermarking_Live_Script.mlx` in MATLAB for a code walkthrough.
 ---
 
 ## **Credits**  
-- Developed by **Sreeneesh** (GitHub: [YourUsername](https://github.com/SREENESHKS))  
+- Developed by **Sreeneesh** (GitHub: [SREENESH KS](https://github.com/SREENESHKS))  
 - Inspired by academic papers on DCT watermarking.  
 
 **License**: MIT  
