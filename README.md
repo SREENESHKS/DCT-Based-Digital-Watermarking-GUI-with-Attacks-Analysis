@@ -36,7 +36,9 @@
 | `sample_images/` | Test images (cover + watermark) |  
 
 ---
-
+## MATLAB GUI
+- App Designer GUI: [`app5.mlapp`](app5.mlapp)
+- Open in MATLAB using: `appdesigner('app5.mlapp')`
 ## **Usage**  
 ### **1. GUI Workflow**  
 1. **Load Images**:  
